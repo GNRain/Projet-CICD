@@ -8,3 +8,4 @@ https://www.javachinna.com/angular-nginx-spring-boot-mysql-docker-compose/
 https://dzone.com/articles/building-docker-images-to-docker-hub-using-jenkins
 https://www.youtube.com/watch?v=6fcoYGqvg6o
 https://www.youtube.com/watch?v=Kc3Vw5vk1Lw
+https://www.jenkins.io/doc/book/pipeline/docker/
